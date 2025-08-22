@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
     exit;
 }
 
-$email_it_to = "divyams418@gmail.com";
+$email_it_to = "sender email id here";
 
 $response_array = array("message" => "", "name_error" => "" , "email_error" => "" , "subject_error" => "", "message_error" => "");
 
@@ -83,8 +83,8 @@ try {
     $mail->isSMTP();
     $mail->Host       = 'smtp.gmail.com';
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'divyams418@gmail.com'; // your Gmail
-    $mail->Password   = 'txkc bwkc fivx tmxh'; // Gmail app password
+    $mail->Username   = 'sample@gmail.com'; // your Gmail
+    $mail->Password   = 'xxxx xxxx xxxx xxxx'; // Gmail app password
     $mail->SMTPSecure = 'tls';
     $mail->Port       = 587;
 
