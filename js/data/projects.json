@@ -1,0 +1,250 @@
+ [
+  {
+    "id": "tamperfinder",
+    "title": "Tamperfinder",
+    "tagline": "Tireless Protector of Power Sector",
+    "description": "TamperFinder is an advanced power monitoring and theft detection system designed to safeguard the electricity infrastructure. It identifies unauthorized consumption, detects tampering activities, and ensures the integrity of power delivery through real-time tracking and alerts. Built with cutting-edge IoT technology and intelligent sensors, TamperFinder helps utility companies, industries, and governments to drastically reduce revenue loss caused by power theft.The system offers a smart dashboard for monitoring incidents, reporting thefts, and maintaining the overall health of the electricity network.",
+    "tech_stack": ["WordPress", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+    "role": ["Support in the updation of pages","Custom plugin integration"],
+    "features": [
+      "Custom WordPress Theme Development",
+      "Responsive and Mobile-First Design",
+      "Admin Panel with Custom Post Types"
+    ],
+    "live_link": "https://tamperfinder.com/"
+  },
+  {
+  "id": "clams",
+  "title": "Clams Automation Pvt Ltd Website",
+  "tagline": "Responsive WordPress Site for Smart Automation Solutions",
+  "description": "Clams Automation Pvt Ltd is a leading provider of smart home and industrial automation systems. We built a fully custom WordPress site using WPBakery Page Builder and Slider Revolution to showcase their services—Smart Lightings, Smart Mirrors, Automated Pet Feeding Systems, and more. Advanced Custom Fields powers custom service blocks, a dynamic portfolio gallery, and integrated contact forms. The site is SEO-optimized, performance-tuned, and fully responsive across devices, giving visitors a modern, seamless experience of Clams’ cutting-edge solutions.",
+  "tech_stack": [
+    "WordPress",
+    "PHP",
+    "MySQL",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "role": "Full Stack WordPress Developer",
+  "features": [
+    "Custom WP theme with WPBakery layouts",
+    "Interactive services blocks (ACF-powered)",
+    "Dynamic portfolio & testimonials gallery",
+    "Contact forms with AJAX validation",
+    "Slider Revolution hero banners",
+    "SEO optimization & performance tuning",
+    "Fully responsive design"
+  ],
+  "live_link": "https://clamsautomation.com"
+},
+  {
+    "id": "biverah",
+    "title": "Biverah",
+    "tagline": "Embrace Pure Poise at Biverah Hotel & Suites",
+    "description": "Biverah Hotel & Suites is a 4-star hotel located in Trivandrum. I contributed to the development of its professional and elegant website which showcases the hotel’s amenities, room types, dining options, conference facilities, and more. The site emphasizes user experience with intuitive navigation and responsive design for seamless access across all devices.",
+    "tech_stack": ["HTML", "CSS", "PHP","JavaScript"],
+    "role": ["Designed and developed the entire front-end structure from scratch","Wrote clean, well-structured, and semantic HTML and CSS","Ensured cross-browser compatibility and responsive design","Focused on delivering a smooth, visually appealing user experience"],
+    "features": [
+      "Multi-page static website built using HTML5, CSS3, and vanilla JavaScript",
+        "Fully responsive layout that adapts seamlessly across mobile, tablet, and desktop devices",
+"Custom-designed About Us, Rooms, Dining, Conference, and Gallery pages",
+"Embedded high-quality images and detailed descriptions to create an immersive experience",
+"Optimized for fast loading and user-friendly navigation"
+    ],
+    "live_link": "https://biverah.com/"
+  },
+  {
+  "id": "sabarigiri",
+  "title": "Sabarigiri International School",
+  "tagline": "Gateway to Knowledge and Excellence",
+  "description": "Sabarigiri International School is a CBSE-affiliated institution in Trivandrum. I worked on the complete development of its dynamic website using HTML, CSS, and PHP with the CodeIgniter framework. The site delivers important information about the school, academics, admissions, facilities, and more while maintaining a clean and structured design.",
+  "tech_stack": ["HTML", "CSS", "PHP", "CodeIgniter", "JavaScript","MySQL"],
+  "role": [
+    "Built the front-end using HTML, CSS, and JavaScript to create an intuitive user experience",
+    "Integrated dynamic content and admin panel functionalities using CodeIgniter",
+    "Developed reusable components for easy content updates",
+    "Handled backend routing and data display with MVC architecture in CodeIgniter",
+    "Ensured mobile responsiveness and performance optimization"
+  ],
+  "features": [
+    "Dynamic multi-page site developed using PHP CodeIgniter framework",
+    "Admin panel for easy content management of academics, admission, and gallery sections",
+    "Responsive design with clear navigation and structure",
+    "Custom sections for Chairman’s message, vision, faculty, and facilities",
+    "Optimized images and content loading for performance"
+  ],
+  "live_link": "https://sabarigiriinternationalschool.com/"
+},
+{
+  "id": "ria-capital",
+  "title": "RIA Capital LLC",
+  "tagline": "Luxury Interior Design & Turnkey Services",
+  "description": "RIA Capital LLC is a real estate and interior design firm offering comprehensive turnkey services for residential and commercial projects in the USA and UAE. I developed the frontend for this modern, visually appealing website using HTML, CSS, and JavaScript, showcasing their premium services, design aesthetics, and commitment to innovation through AI technology.",
+  "tech_stack": ["HTML", "CSS"],
+  "role": [
+    "Designed and implemented a fully responsive front-end layout",
+    "Created elegant and interactive UI components using HTML5 and CSS3",
+    "Incorporated smooth transitions and visual hierarchy for an enhanced user experience",
+    "Focused on brand consistency and professional aesthetics"
+  ],
+  "features": [
+    "Modern, multi-section landing page with emphasis on luxury design",
+    "Fully responsive layout for mobile, tablet, and desktop devices",
+    "Typography and color scheme aligned with the company’s branding",
+    "Well-structured content areas including About, Services, and Contact",
+    "Optimized for clarity, readability, and clean user flow"
+  ],
+  "live_link": "https://ria-holdings.com/"
+},
+{
+  "id": "karunalayam",
+  "title": "Karunalayam Attingal",
+  "tagline": "Prayers and Support When You Need It Most",
+  "description": "Karunalayam Attingal is a nonprofit organization website developed using WordPress. It highlights the organization's mission to provide emotional and spiritual support, especially to the elderly and underprivileged. The website includes clear navigation, donation integration, and an emotional visual appeal to connect with visitors.",
+  "tech_stack": ["WordPress", "MySQL", "HTML", "CSS"],
+   "role": [
+    "Developed a responsive WordPress site using Elementor",
+    "Customized theme to match the organization’s branding and mission",
+    "Integrated ‘Donate Now’ functionality to support fundraising",
+    "Created and structured content for About, Services, Gallery, and Contact sections"
+  ],
+  "features": [
+    "Slider with emotional imagery and call-to-action buttons",
+    "Donation feature with visible 'Donate Now' button",
+    "Mobile-friendly responsive layout",
+    "Gallery to showcase activities and support initiatives",
+    "Contact form and clear navigation menu"
+  ],
+  "live_link": "https://karunalayamattingal.com/"
+},
+{
+  "id": "aamtech",
+  "title": "AamTech Facilities Management",
+  "tagline": "Smart Solutions for Secure and Efficient Facilities",
+  "description": "AamTech Facilities Management Services is a corporate WordPress website designed for a company based in Abu Dhabi that specializes in ELV, Networking, CCTV, Engineering Support, and MEP services. The website presents a professional and responsive layout with sections tailored for corporate credibility, services, and client engagement.",
+  "tech_stack": ["WordPress", "MySQL", "HTML", "CSS","JavaScript","jQuery"],
+  "role": [
+    "Developed a professional WordPress site using Elementor",
+    "Customized layout and theme to reflect the company's brand and service focus",
+    "Structured content for About Us, Services, and Contact pages",
+    "Integrated WhatsApp and call-to-action buttons for client engagement"
+  ],
+  "features": [
+    "Corporate-style responsive design",
+    "Service-specific sections with clean layout",
+    "Optimized for performance and mobile responsiveness",
+    "WhatsApp integration for instant client communication",
+    "Clear navigation and structured content flow"
+  ],
+  "live_link": "https://aamtech.ae/"
+},
+{
+  "id": "hello-nariyal",
+  "title": "Hello Nariyal – The Best Coconut Climbers",
+  "tagline": "Trained Climbers for Safe and Efficient Coconut Harvesting",
+  "description": "Hello Nariyal is a service-based WordPress website aimed at offering professional coconut tree climbers for regular harvesting and plant protection operations. The site is designed to present the organization’s mission, services, and impact through a clean and engaging layout that includes video content, contact details, and informative sections.",
+  "tech_stack": ["WordPress", "MySQL", "HTML", "CSS"],
+  "role": [
+    "Developed the WordPress site to represent the services and mission of Hello Nariyal",
+    "Structured pages like Home, About Us, Gallery, Franchise, Career, and Contact Us",
+    "Integrated multimedia (videos and images) to enhance engagement",
+    "Implemented responsive design for better mobile experience",
+    "Configured contact details and action buttons for user convenience"
+  ],
+  "features": [
+    "Informative About Us section highlighting service mission",
+    "Responsive navigation bar with service categories",
+    "Integrated video section for visual storytelling",
+    "Clickable phone numbers and email links for instant contact",
+    "SEO-friendly layout and content structure"
+  ],
+  "live_link": "https://hellonariyal.com/"
+},
+{
+  "id": "wattsun-international",
+  "title": "Wattsun International – Abroad Education Experts",
+  "tagline": "Your Pathway to Global Education",
+  "description": "Wattsun International is a dedicated vertical of Wattsun that offers a wide portfolio of abroad education opportunities. It connects students with prestigious universities across the UK, USA, Australia, Canada, Germany, and New Zealand. The focus lies in providing value-driven education solutions that save time and money for candidates.The organization also provides higher education programs tailored for working professionals in fields such as HR, Marketing, and Engineering. With a deep emphasis on career guidance, counselling, and personalized support, Wattsun International ensures that students navigate every stage of their journey abroad—from admission to arrival in their dream country—with confidence and clarity.",
+  "tech_stack": ["WordPress", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+  "role": [
+    "Developed the WordPress site to represent the services of Wattsun International",
+    "Structured pages like Home, About Us,Services, Gallery, Events, Career, and Contact Us",
+    "Implemented responsive design for better mobile experience",
+    "Configured contact details and action buttons for user convenience"
+  ],
+  "features": [
+    "Study abroad program listings",
+    "Counselling service overview",
+    "Professional development course offerings",
+    "SEO-optimized WordPress design",
+    "Fully responsive layout",
+    "Quick Contact integration"
+  ],
+  "live_link": "https://wattsunedu.in/"
+},
+{
+  "id": "sbin-saleh",
+  "title": "Salman Binsaleh Steel Products Company",
+  "tagline": "Engineering Excellence in Industrial Solutions",
+  "description": "Salman Binsaleh Steel Products Company is a 100% Saudi-owned industrial firm established in 1996 by Mr. Salman H. Binsaleh. The company has a proven track record of 15+ years in delivering engineering and technical services across Oil Field, Steel, Rubber, Petrochemicals, Cement, and the Pipe Industry sectors.\n\nTheir services span Projects & Maintenance, Fabrication & Machining, Re-engineering, Industrial Trading, and Maintenance Support across the Middle East. The platform showcases the company's credibility, management team, certifications, and industry-focused service offerings.",
+  "tech_stack": ["PHP", "CodeIgniter", "MySQL", "Bootstrap", "HTML", "CSS", "JavaScript"],
+  "role":[
+    "Designed and developed the complete website using CodeIgniter.",
+    " Responsible for frontend UI design, backend integration, content management, and deployment."
+  ],
+  "features": [
+    "About and History section",
+    "Service categorization and details",
+    "Chairman and management info",
+    "Certifications & appreciations showcase",
+    "Dynamic content loading with CodeIgniter",
+    "Responsive UI with Bootstrap",
+    "Contact form integration"
+  ],
+  "live_link": "https://gspedia.com/projects/sbinsaleh/"
+}
+,
+{
+  "id": "teams-abroad",
+  "title": "Teams Abroad Pvt Ltd",
+  "tagline": "Empowering Global Education Aspirations",
+  "description": "Teams Abroad is a leading brand in study abroad facilitation services in India, known for its trust, quality, friendliness, and professional approach. The platform aims to make top-quality overseas education services available to aspiring students, helping them fulfill their career dreams abroad.\n\nWith a strong mission to empower students beyond national boundaries and a vision to lead in international education services, Teams Abroad offers assistance in university search, application guidance, and test preparation through its extensive network of educational partnerships.",
+  "tech_stack": ["WordPress", "PHP", "HTML", "CSS", "JavaScript"],
+   "role": [
+    "Customized WordPress theme to reflect the brand's mission and vision.",
+    "Designed and developed About, Services, and Contact pages with responsive layout.",
+    "Integrated multimedia, dropdown menus, and clean navigation for a smooth user experience."
+  ],
+  "features": [
+    "About page with company values, mission, and vision",
+    "Dropdown navigation for Study Abroad, Services, and Test Prep",
+    "Contact form with location and inquiry details",
+    "Clean and responsive layout for desktop and mobile users",
+    "Visual elements and professional imagery"
+  ],
+  "live_link": "https://teamsabroad.com/"
+}
+,
+{
+  "id": "sabari-hospital",
+  "title": "Sabarigiri Multispeciality Hospital",
+  "tagline": "Affordable, Accessible, and Quality Healthcare",
+  "description": "Sabarigiri Multispeciality Hospital was established in 1960 by Dr. VK Jayakumar, a visionary in the field of medicine. With a mission to provide affordable, accessible, and quality healthcare, the hospital has grown from a small clinic into a comprehensive healthcare institution in Anchal town. It blends modern medical technology with a compassionate approach to deliver exceptional care across a wide range of specialities.\n\nThe website features the hospital's history, services, and mission, showcasing its commitment to holistic healthcare, including prevention, education, early detection, and treatment.",
+  "tech_stack": ["WordPress", "PHP", "HTML", "CSS", "JavaScript"],
+  "role": [
+    "Customized the WordPress theme for the hospital’s branding and content.",
+    "Developed and styled About Us and Services pages with responsive layout.",
+    "Integrated multimedia elements and optimized the user experience for healthcare visitors."
+  ],
+  "features": [
+    "Detailed About Us section with hospital history",
+    "Responsive design for all devices",
+    "Multimedia integration (images, banners)",
+    "Searchable services and facilities",
+    "Contact page with location and communication options"
+  ],
+  "live_link": "https://sabarigirihospital.com/"
+}
+
+]
